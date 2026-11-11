@@ -1,0 +1,10 @@
+git checkout 919442b
+git log EntradaDatos2.java
+git push -u origin main
+git commit -m "Double"
+git add .
+C:\Users\aula\Downloads\jdk-27_windows-x64_bin\jdk-27.0.1.0.3\bin\java.exe EntradaDatos2
+C:\Users\aula\Downloads\jdk-27_windows-x64_bin\jdk-27.0.1.0.3\bin\javac.exe EntradaDatos2.java
+copy EntradaDatos.java EntradaDatos2.java
+"C:\Users\aula\Downloads\npp.8.9.9.portable.x64\notepad++.exe" EntradaDatos.java
+C:\Users\aula\Downloads\npp.8.9.9.portable.x64\notepad++.exe" .gitignore
