@@ -721,6 +721,18 @@ Cada estudiante deberá entregar un repositorio Git que contenga:
 - Probar cada funcionalidad antes de realizar el commit correspondiente.
 - Verificar que el proyecto pueda importarse y ejecutarse correctamente desde Eclipse.
 
+## Referencias
+- https://www.youtube.com/watch?v=XQdL-1PRJWw&list=PLAzlSdU-KYwXaX_zidZ3Kns1qdKeN35fO
+- https://www.youtube.com/watch?v=0jbDTCLmyiw
+- https://www.youtube.com/watch?v=tVJvL4ZuaDo
+- https://www.youtube.com/watch?v=Y6W9LA1jIPA
+- https://www.youtube.com/watch?v=4T7fxEffnU4
+- https://www.youtube.com/watch?v=D0VH50zFVIA
+- https://docs.oracle.com/javase/tutorial/collections/index.html
+- https://docs.oracle.com/javase/tutorial/javabeans/index.html
+- https://docs.oracle.com/javase/tutorial/java/javaOO/index.html
+- https://help.eclipse.org/latest/index.jsp
+- https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/ArrayList.html
 ---
 
 ## ¡Éxitos en el desarrollo del Laboratorio 08!
