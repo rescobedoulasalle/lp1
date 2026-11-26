@@ -419,6 +419,8 @@ Laboratorio09-Java-Swing/
     └── Ejercicio02/
 ```
 
+![guis](lab09_guis.png)
+
 ## 10. CRITERIOS DE EVALUACIÓN
 
 | Criterio | Puntaje |
